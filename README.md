@@ -3,7 +3,7 @@
 
 [![NPM](https://nodei.co/npm/reqwest.png?downloads=true)](https://www.npmjs.com/package/reqwest)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-reqwest/build/screenCapture.buildNpmdoc.browser.%2Fhome%2Ftravis%2Fbuild%2Fnpmdoc%2Fnode-npmdoc-reqwest%2Ftmp%2Fbuild%2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-reqwest/build/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-reqwest/build/screenCapture.buildNpmdoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-reqwest%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-reqwest/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-reqwest/build/screenCapture.npmPackageListing.svg)
 
