@@ -1,7 +1,7 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
     "buildNpmdoc": "reqwest",
-    "description": "api documentation for [reqwest (v2.0.5)](https://github.com/ded/reqwest) [![npm package](https://img.shields.io/npm/v/npmdoc-reqwest.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-reqwest) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-reqwest.svg)](https://travis-ci.org/npmdoc/node-npmdoc-reqwest)",
+    "description": "#### api documentation for  [reqwest (v2.0.5)](https://github.com/ded/reqwest)  [![npm package](https://img.shields.io/npm/v/npmdoc-reqwest.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-reqwest) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-reqwest.svg)](https://travis-ci.org/npmdoc/node-npmdoc-reqwest)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "reqwest": "*",
@@ -36,5 +36,5 @@
         "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.2"
+    "version": "0.0.3"
 }

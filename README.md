@@ -1,9 +1,14 @@
-# api documentation for  [reqwest (v2.0.5)](https://github.com/ded/reqwest)  [![npm package](https://img.shields.io/npm/v/npmdoc-reqwest.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-reqwest) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-reqwest.svg)](https://travis-ci.org/npmdoc/node-npmdoc-reqwest)
+# npmdoc-reqwest
+
+#### api documentation for  [reqwest (v2.0.5)](https://github.com/ded/reqwest)  [![npm package](https://img.shields.io/npm/v/npmdoc-reqwest.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-reqwest) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-reqwest.svg)](https://travis-ci.org/npmdoc/node-npmdoc-reqwest)
+
 #### A wrapper for asynchronous http requests
 
-[![NPM](https://nodei.co/npm/reqwest.png?downloads=true)](https://www.npmjs.com/package/reqwest)
+[![NPM](https://nodei.co/npm/reqwest.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/reqwest)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-reqwest/build/screenCapture.buildNpmdoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-reqwest%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-reqwest/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-reqwest/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-reqwest/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-reqwest/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-reqwest/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-reqwest/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Dustin Diaz",
-        "email": "dustin@dustindiaz.com",
         "url": "http://dustindiaz.com"
     },
     "browser": {
@@ -60,17 +64,14 @@
     "main": "./reqwest.js",
     "maintainers": [
         {
-            "name": "ded",
-            "email": "polvero@gmail.com"
+            "name": "ded"
         },
         {
-            "name": "rvagg",
-            "email": "rod@vagg.org"
+            "name": "rvagg"
         }
     ],
     "name": "reqwest",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/ded/reqwest.git"
@@ -90,16 +91,6 @@
     "version": "2.0.5"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module reqwest](#apidoc.module.reqwest)
-
-
-
-# <a name="apidoc.module.reqwest"></a>[module reqwest](#apidoc.module.reqwest)
 
 
 
