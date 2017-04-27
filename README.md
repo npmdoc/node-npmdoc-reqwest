@@ -1,6 +1,6 @@
 # npmdoc-reqwest
 
-#### api documentation for  [reqwest (v2.0.5)](https://github.com/ded/reqwest)  [![npm package](https://img.shields.io/npm/v/npmdoc-reqwest.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-reqwest) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-reqwest.svg)](https://travis-ci.org/npmdoc/node-npmdoc-reqwest)
+#### basic api documentation for  [reqwest (v2.0.5)](https://github.com/ded/reqwest)  [![npm package](https://img.shields.io/npm/v/npmdoc-reqwest.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-reqwest) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-reqwest.svg)](https://travis-ci.org/npmdoc/node-npmdoc-reqwest)
 
 #### A wrapper for asynchronous http requests
 
@@ -88,7 +88,8 @@
             "make"
         ]
     },
-    "version": "2.0.5"
+    "version": "2.0.5",
+    "bin": {}
 }
 ```
 
